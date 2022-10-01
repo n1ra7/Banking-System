@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1663105538 source:c:\users\nchaudhari\desktop\c++\banking system\src\accounts.cpp
+
+1663105572 c:\users\nchaudhari\desktop\c++\banking system\include\accounts.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1663105235 source:c:\users\nchaudhari\desktop\c++\banking system\src\bank.cpp
+
+1663105237 source:c:\users\nchaudhari\desktop\c++\banking system\main.cpp
+	<iostream>
+	<Accounts.h>
+	<Bank.h>
+	<map>
+	<fstream>
+
+1663105799 c:\users\nchaudhari\desktop\c++\banking system\include\bank.h
+	<Accounts.h>
+	<iostream>
+	<map>
+	<fstream>
+
